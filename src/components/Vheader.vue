@@ -13,13 +13,13 @@ export default {
     data() {
         return {
             navList: [
-                {href:'/projectExcp',title:'项目经验',name:'projectExcp'},
                 {href:'/selfEval',title:'自我评价',name:'selfEval'},
-                {href:'/selfInfo',title:'自我介绍',name:'selfInfo'},
-                {href:'/skills',title:'专业技能',name:'skills'},
+                {href:'/projectExcp',title:'项目经验',name:'projectExcp'},
                 {href:'/workExcp',title:'工作经历',name:'workExcp'},
+                {href:'/skills',title:'专业技能',name:'skills'},
+                {href:'/selfInfo',title:'自我介绍',name:'selfInfo'},
             ],
-            numFocus: 0
+            numFocus: 4
         }
     },
     methods: {
@@ -37,16 +37,18 @@ export default {
 </script>
 <style>
     .nav {
-        display: flex;
+        position: fixed;
+        z-index: 100;
+        float: right;
         height: 60px;
-        justify-content: flex-end;
-        align-items: center;
+        width: 100%;
         background-color: #333;
     }
     .nav a {
         color: #fbfbfb;
     }
     .nav >li {
+        float: right;
         padding: 0 10px;
         height: 60px;
         line-height: 60px;
