@@ -1,5 +1,5 @@
 
-li {
+.mouseMoveUl li {
   margin: 5px;
   position: relative;
   width: 180px;
@@ -245,7 +245,7 @@ li {
 
 /* ======= aesthetics ======= */
 
-* {
+/* * {
   margin: 0;
   box-sizing: border-box;
 }
@@ -260,12 +260,12 @@ body {
   line-height: 1.618;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+} */
 
-header {
+/* header {
   padding-bottom: 48px;
   padding-bottom: 3rem;
-}
+} */
 
 h1 {
   font-size: 2em
@@ -276,7 +276,7 @@ h1 sup{
   color: #00BCD4;
 }
 
-ul {
+ul.mouseMoveUl {
   font-size: 0;
   padding: 0;
   max-width: 760px;
@@ -284,19 +284,19 @@ ul {
   list-style: none
 }
 
-ul::after{
+ul.mouseMoveUl::after{
   content: '';
   display: table;
   clear: both;
 }
 
-footer {
+/* footer {
   font-size: 12px;
   font-size: .75rem;
   font-family: monospace;
   padding-top: 48px;
   padding-top: 3rem
-}
+} */
 
 :link,:visited {
   color: #00BCD4;

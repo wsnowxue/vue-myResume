@@ -9,8 +9,176 @@
                 </ul>
             </div>
             <div class="section">
-                <h3>主要涉及PC端的后台管理项目和绩效考核项目</h3>
-                <p class="skill">主要的技术有:HTML5+CSS3+JAVASCRIPT+AJAX,vue+elementUI框架</p>
+                <ul class='mouseMoveUl -center'>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-angus.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Angus Young
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-aurora.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Aurora
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-bride.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Bride of Frankenstein
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-d.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Dracula
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-dali.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Salvador Dalí
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-huitzi.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Ilhuicatl Xoxouhqui
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-man.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            L'Homme qui rit
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-v.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Visualization
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-v2.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Visualization II
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-v3.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Visualization III
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-worms.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            Zombie
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class='w'>
+                        <div class='f'>
+                            <svg viewBox='0 0 180 180'>
+                            <image height='100%' preserveAspectRatio='xMidYMid slice' width='100%' xlink:href='../assets/mouseMove/img/i-xrays.png'></image>
+                            </svg>
+                        </div>
+                        <div class='b'>
+                            <h3>
+                            X-Rays
+                            </h3>
+                        </div>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -18,6 +186,7 @@
 <script>
     import $ from 'jquery'
     import '../assets/fullPage/js/jquery.fullPage.d.js'
+    
     export default {
         data() {
             return {
@@ -71,15 +240,18 @@
             }
         },
         mounted() {
+            var mm = require('../assets/mouseMove/js/index.d.js')
             $('#dowebok').fullpage({
                 sectionsColor: ['#cba994', '#7BAABE']
             });
             this.getCanvas()
+            new mm.default(document.querySelectorAll('.mouseMoveUl li'))
         }
   }
 </script>
 <style>
     @import url(../assets/fullPage/css/jquery.fullPage.css);
+    @import url(../assets/mouseMove/css/style.css);
     .section {
         text-align: center;
     }
