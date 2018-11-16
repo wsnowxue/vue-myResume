@@ -1,21 +1,20 @@
 <template>
   <div id="app">
-    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <Vheader></Vheader>
     <router-view></router-view>
+    <Vside></Vside>
   </div>
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 import Vheader from './components/Vheader.vue'
+import Vside from './components/Vside.vue'
 
 export default {
   name: 'app',
   components: {
-    // HelloWorld
-    Vheader
+    Vheader,
+    Vside,
   }
 }
 </script>

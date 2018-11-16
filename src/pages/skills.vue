@@ -2,13 +2,6 @@
     <div>
         <div id="dowebok">
             <div class="section">
-                <ul>
-                    <li v-for="(item,index) in options" :key="index">
-                        <div :id="item.id"></div>
-                    </li>
-                </ul>
-            </div>
-            <div class="section">
                 <ul class='mouseMoveUl -center'>
                     <li>
                         <div class='w'>
@@ -19,7 +12,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Angus Young
+                            HTML5
                             </h3>
                         </div>
                         </div>
@@ -33,7 +26,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Aurora
+                            CSS3
                             </h3>
                         </div>
                         </div>
@@ -47,7 +40,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Bride of Frankenstein
+                            JaveScript
                             </h3>
                         </div>
                         </div>
@@ -61,7 +54,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Dracula
+                            Ajax
                             </h3>
                         </div>
                         </div>
@@ -75,7 +68,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Salvador Dalí
+                            Json
                             </h3>
                         </div>
                         </div>
@@ -89,7 +82,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Ilhuicatl Xoxouhqui
+                            Vue
                             </h3>
                         </div>
                         </div>
@@ -103,7 +96,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            L'Homme qui rit
+                            Vue-router
                             </h3>
                         </div>
                         </div>
@@ -117,7 +110,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Visualization
+                            Vuex
                             </h3>
                         </div>
                         </div>
@@ -131,7 +124,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Visualization II
+                            ElementUI
                             </h3>
                         </div>
                         </div>
@@ -145,7 +138,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Visualization III
+                            bootstrap
                             </h3>
                         </div>
                         </div>
@@ -159,7 +152,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            Zombie
+                            less
                             </h3>
                         </div>
                         </div>
@@ -173,7 +166,7 @@
                         </div>
                         <div class='b'>
                             <h3>
-                            X-Rays
+                            ES6
                             </h3>
                         </div>
                         </div>

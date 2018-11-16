@@ -13,7 +13,7 @@ export default {
     data() {
         return {
             navList: [
-                {href:'/selfEval',title:'自我评价',name:'selfEval'},
+                {href:'/selfEval',title:'联系我吧',name:'selfEval'},
                 {href:'/projectExcp',title:'项目经验',name:'projectExcp'},
                 {href:'/workExcp',title:'工作经历',name:'workExcp'},
                 {href:'/skills',title:'专业技能',name:'skills'},
@@ -46,6 +46,9 @@ export default {
     }
     .nav a {
         color: #fbfbfb;
+        display: inline-block;
+        width: 100%;
+        height: 100%;
     }
     .nav >li {
         float: right;
