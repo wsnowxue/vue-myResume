@@ -261,7 +261,7 @@ Gulp是基于 Node.js的，需要要安装 Node.js
 
 
 以上就完成了前端团队最基本的开发环境搭建和代码提交工作流程。
-
+补充：写的那个index.html没有暴露在外面，搜了下要改配置，但vue-cli3.0又没有那个配置文件,将config文件夹下的index.js文件中build的assetsPublicPath属性改为‘./’或者为空 ‘’。把gitignore里的dist删掉，否则无法上传
 
 
 补充：ZSmart UED Team 的前端开发软件环境 (Windows, Linux, Mac OS X)
