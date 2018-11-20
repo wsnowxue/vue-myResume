@@ -54,7 +54,7 @@ export default {
         top: 60px;
         background-color: #fafafa;
         opacity: 0.9;
-        animation: myfirst 0.5s;
+        animation: myfirst 0.3s;
         text-align: center;
         padding-top: 30px;
     }
